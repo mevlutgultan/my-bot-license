@@ -1,23 +1,4 @@
 {
     "version": 2,
-    "licenses": {
-        "53B1A300931F9DD1": {
-            "key_hash": "e8632baef1bc157e20fb67e16c12613992924030a2d16d94abfccf68d8f49fd5",
-            "type": "ABSOLUTE",
-            "status": "active",
-            "expiry": "2026-08-17 03:55"
-        },
-        "53637DC99D9AD846": {
-            "key_hash": "a9231497194a5898ea6bd1ceed0a2d7be9e02e6f28f3214aec1eee7ffba6ab10",
-            "type": "ABSOLUTE",
-            "status": "active",
-            "expiry": "2026-08-17 09:10"
-        },
-        "347C12D68E7C3F7E": {
-            "key_hash": "763c491e9289789346aad64ad6002fd26b57d07aeb8b9afcc2edef199b728558",
-            "type": "ABSOLUTE",
-            "status": "active",
-            "expiry": "2026-08-17 23:59"
-        }
-    }
+    "licenses": {}
 }
