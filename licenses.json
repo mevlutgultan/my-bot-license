@@ -18,6 +18,12 @@
             "type": "ABSOLUTE",
             "status": "active",
             "expiry": "2026-11-10 12:00"
+        },
+        "0DA93F0E5C2B6390": {
+            "key_hash": "dd8cb8dffa98682ee61d73f4db0feac932d5e0b9430363fb5c6664f738855a13",
+            "type": "ABSOLUTE",
+            "status": "active",
+            "expiry": "2026-10-25 12:00"
         }
     }
 }
