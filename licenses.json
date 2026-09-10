@@ -6,6 +6,12 @@
             "type": "DURATION",
             "status": "active",
             "duration_days": 60
+        },
+        "8133FF7FD8FB0419": {
+            "key_hash": "883cbe2fcd06f26e67ac58babfd64497fb600b8bee6ec2b8d4f4b97982350f70",
+            "type": "DURATION",
+            "status": "active",
+            "duration_days": 80
         }
     }
 }
