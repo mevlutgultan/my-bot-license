@@ -6,6 +6,12 @@
             "type": "ABSOLUTE",
             "status": "active",
             "expiry": "2026-12-31 23:00"
+        },
+        "672C64BF954E6037": {
+            "key_hash": "f43de19eefcc2c80e417df2f7ab4c7a3937991948cddca511c04432387a20f31",
+            "type": "ABSOLUTE",
+            "status": "active",
+            "expiry": "2026-12-31 12:00"
         }
     }
 }
