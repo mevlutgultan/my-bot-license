@@ -24,6 +24,12 @@
             "type": "ABSOLUTE",
             "status": "active",
             "expiry": "2026-10-25 12:00"
+        },
+        "5B6B541C073E6DAE": {
+            "key_hash": "7d771cfbb087687f4c03a2726c3c685322e5f70f8e82add07e33171cb833c07d",
+            "type": "DURATION",
+            "status": "active",
+            "duration_days": 10
         }
     }
 }
