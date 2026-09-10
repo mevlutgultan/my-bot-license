@@ -12,6 +12,12 @@
             "type": "DURATION",
             "status": "active",
             "duration_days": 80
+        },
+        "D9D3C8A836B43EF7": {
+            "key_hash": "a930812ef63e0e26ee06b5b665c42c27c1f979223c637b0b3dc168f99e191bc5",
+            "type": "DURATION",
+            "status": "active",
+            "duration_days": 70
         }
     }
 }
