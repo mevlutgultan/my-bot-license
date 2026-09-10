@@ -1,11 +1,4 @@
 {
     "version": 2,
-    "licenses": {
-        "525C05CC7B8FE899": {
-            "key_hash": "39ee68a2ce31cbe25154851fd11717962faf69b6b59e7e1a5285625101d32d82",
-            "type": "ABSOLUTE",
-            "status": "active",
-            "expiry": "2026-12-31 23:00"
-        }
-    }
+    "licenses": {}
 }
