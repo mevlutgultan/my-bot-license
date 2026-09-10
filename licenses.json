@@ -1,35 +1,4 @@
 {
     "version": 2,
-    "licenses": {
-        "27F8042E937D71AE": {
-            "key_hash": "b2c15fb442b8c1b372cdd2ce83b854f6423b25d0732a343a1c40951b792f5e71",
-            "type": "DURATION",
-            "status": "active",
-            "duration_days": 60
-        },
-        "8133FF7FD8FB0419": {
-            "key_hash": "883cbe2fcd06f26e67ac58babfd64497fb600b8bee6ec2b8d4f4b97982350f70",
-            "type": "DURATION",
-            "status": "active",
-            "duration_days": 80
-        },
-        "D9D3C8A836B43EF7": {
-            "key_hash": "a930812ef63e0e26ee06b5b665c42c27c1f979223c637b0b3dc168f99e191bc5",
-            "type": "DURATION",
-            "status": "active",
-            "duration_days": 70
-        },
-        "DDF74F0CAD20EA58": {
-            "key_hash": "b712957eb7881a1402f7da82edd683f192dec0d7cb943fff13ebd476204b40c3",
-            "type": "DURATION",
-            "status": "active",
-            "duration_days": 100
-        },
-        "5C6678CA27612177": {
-            "key_hash": "49540034224e37f09a8c7db507e7105dba03ba4eec434c2452560e514bee0670",
-            "type": "DURATION",
-            "status": "active",
-            "duration_days": 20
-        }
-    }
+    "licenses": {}
 }
