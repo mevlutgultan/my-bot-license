@@ -1,4 +1,11 @@
 {
     "version": 2,
-    "licenses": {}
+    "licenses": {
+        "A0AB26450C0FE750": {
+            "key_hash": "efd88a011dc9ac75fd7cfdb70ed247a3f8238fca8a60115c4c10ed5b597f56e9",
+            "type": "DURATION",
+            "status": "active",
+            "duration_days": 10
+        }
+    }
 }
